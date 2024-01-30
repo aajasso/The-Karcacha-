@@ -4,7 +4,7 @@ Welcome to The Karcacha app driving game.
 This is a free app developed in Unity by Adriana Arizaga.
 I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect 
 any personally identifiable information. 
-All the data is stored on your device only, and can be simply erased by erasing the app's data or uninstalling it.
+All the data is stored on your device only, and can be simply removed by erasing the app's data or uninstalling it.
 If you have any questions about the app, fell free to send me an email.
 
 Thank you for playing the game. Hope you enjoy it.
